@@ -1,0 +1,21 @@
+{
+  "name": "ember-practice",
+  "version": "1.8.1",
+  "authors": [
+    "Keri Clowes <Kerilyn.Clowes@gmail.com>"
+  ],
+  "description": "practicing",
+  "main": "app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember-data": "~0.0.14",
+    "ember": "~1.8.1"
+  }
+}
